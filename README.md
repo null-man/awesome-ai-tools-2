@@ -2922,6 +2922,9 @@ A curated list of awesome AI tools
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Turn two portrait photos into a 13-second two-person AI studio dance video; independent, unofficial, no original song included. [Paid]
 - [Bad Times AI](https://badtimesai.dev) - Turn one portrait, group or pet photo into a short AI-generated dance effect video with five templates; independent, unofficial. [Paid]
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Turn two portrait photos into a short AI-generated encounter effect video (balcony, spotlight, eyes meet); independent, unofficial. [Paid]
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Turn one portrait into a 13-second 21:9 AI solo dance video; independent, unofficial, not affiliated with Riot Games or K/DA. [Paid]
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Turn two portraits into a 15-second 16:9 AI duo dance video with reference soundtrack; independent, unofficial. [Paid]
+- [dime dime baby ai](https://dimedimebabyai.dev) - Turn one photo into a ~5-second 9:16 AI dance video (Quince Classic or Party Groove) with music; independent. [Paid]
 
 ### Text To Video
 
