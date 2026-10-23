@@ -261,6 +261,7 @@
 - [Chat2Design](https://chat2.design) - Transform text into stunning designs instantly, enhancing creativity and workflow efficiency.. [Freemium]
 - [Architect AI](https://ai-architect.net) - Transform sketches to cinematic renders instantly, enhancing architectural visualization affordably.. [Paid]
 - [ChartGPT](https://www.chartgpt.dev) - Transform text into charts using AI; simple, customizable, efficient.. [Paid]
+- [TeslaWraps](https://teslawraps.design) - Design Tesla Paint Shop-style wraps in the browser; core editor free without account, paid AI credits optional.. [Freemium]
 
 ### Image Generator
 
@@ -476,6 +477,7 @@
 - [FluxAI Pro](https://fluxai.pro) - AI-powered tool for stunning, high-resolution image generation.. [Free Trial]
 - [Image2Prompts](https://image2prompts.com) - Free image-to-prompt generator optimized for Nano Banana.. [Freemium]
 - [ImagesArt.ai](https://imagesart.ai/) - Generate and edit AI images with multiple models, prompt tools, and style presets.. [Free Trial]
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and AI image/video generator with a curated prompt library.. [Free]
 
 ### Image Editing
 
